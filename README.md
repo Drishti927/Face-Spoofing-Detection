@@ -26,4 +26,7 @@ The problem of detecting fake faces vs real/legitimate faces is treated as a bin
 ## Working flow
 ![Untitled Diagram](https://user-images.githubusercontent.com/67184408/113248755-2fa88b00-92db-11eb-81fa-3f7a87c1258f.jpg)
 
-## Further work
+## Further Scope
+1. Let’s imagine we want to implement a facial recognition door opener. The system would work well to distinguish between known faces and unknown faces so that only authorized persons have access.
+2. Another way that innovators are looking to implement facial recognition is within subways and other transportation outlets. They are looking to leverage this technology to use faces as credit cards to pay for your transportation fee.
+
